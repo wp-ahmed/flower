@@ -1,0 +1,14 @@
+{
+    "wpconfig": {
+        "baseName": "dup-wp-config-arc__5a4862f-02000144.txt",
+        "source": "C:\/laragon\/www\/flower\/dup-wp-config-arc__5a4862f-02000144.txt",
+        "stored": "C:\/laragon\/www\/flower\/dup-installer\/original_files_5a4862f-02000144\/dup-wp-config-arc__5a4862f-02000144.txt",
+        "mode": "copy"
+    },
+    "htaccess": {
+        "baseName": ".htaccess__5a4862f-02000144",
+        "source": "C:\/laragon\/www\/flower\/.htaccess__5a4862f-02000144",
+        "stored": "C:\/laragon\/www\/flower\/dup-installer\/original_files_5a4862f-02000144\/.htaccess__5a4862f-02000144",
+        "mode": "copy"
+    }
+}

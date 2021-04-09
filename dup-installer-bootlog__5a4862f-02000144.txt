@@ -1,0 +1,196 @@
+[Apr 9 16:38:33] 
+[Apr 9 16:38:33] ==DUPLICATOR INSTALLER BOOTSTRAP v3.8.7==
+[Apr 9 16:38:33] ----------------------------------------------------
+[Apr 9 16:38:33] Installer bootstrap start
+[Apr 9 16:38:33] Using archive C:/laragon/www/flower/20200302_snowdrop_5a4862fc6b58f9388450_20200302000144_archive.zip
+[Apr 9 16:38:33] Ready to extract the installer
+[Apr 9 16:38:33] Checking permission of destination folder
+[Apr 9 16:38:33] ZipArchive exists so using that
+[Apr 9 16:38:34] Successfully opened C:/laragon/www/flower/20200302_snowdrop_5a4862fc6b58f9388450_20200302000144_archive.zip
+[Apr 9 16:38:34] Extracting all files from archive within dup-installer
+[Apr 9 16:38:34] Success: dup-installer/dup-database__5a4862f-02000144.sql >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/dup-scan__5a4862f-02000144.json >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/dup-scanned-files__5a4862f-02000144.txt >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/dup-scanned-dirs__5a4862f-02000144.txt >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/api/class.api.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/api/class.cpnl.base.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/api/class.cpnl.ctrl.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/api/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/api/router.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/css/all.min.css >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/css/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.eot >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.ttf >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff2 >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.eot >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.ttf >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff2 >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.eot >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.ttf >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff2 >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/font-awesome/webfonts/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/inc.css.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/inc.js.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/inc.libs.css.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/inc.libs.js.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/normalize.css >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/assets/wp-config-sample.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/classes/Chunk/class.chunk.s3.manager.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/classes/Chunk/class.chunkingmanager.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/classes/Chunk/class.chunkingmanager_file.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/classes/Chunk/Iterators/class.s3.iterator.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/classes/Chunk/Iterators/Interfaces/EventIterator.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/classes/Chunk/Iterators/Interfaces/GenericSeekableIterator.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/classes/class.crypt.php >>> C:/laragon/www/flower
+[Apr 9 16:38:34] Success: dup-installer/classes/class.csrf.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.db.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.engine.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.http.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.installer.state.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.logging.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.package.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.password.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.s3.func.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/class.server.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/config/class.archive.config.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/config/class.boot.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/config/class.conf.srv.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/config/class.conf.utils.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/config/class.conf.wp.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/config/class.constants.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/config/class.security.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/config/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/host/class.custom.host.manager.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/host/class.godaddy.host.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/host/class.liquidweb.host.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/host/class.pantheon.host.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/host/class.wordpresscom.host.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/host/class.wpengine.host.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/host/interface.host.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/plugins/class.plugin.custom.actions.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/plugins/class.plugin.item.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/plugins/class.plugins.manager.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.ignorant.recursive.iterator.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.u.exceptions.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.u.html.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.u.multisite.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.u.notices.manager.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.u.orig.files.manager.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.u.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.u.remove.redundant.data.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/class.u.search.reaplce.manager.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/params/class.u.param.item.form.option.php >>> C:/laragon/www/flower
+[Apr 9 16:38:35] Success: dup-installer/classes/utilities/params/class.u.param.item.form.pass.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/classes/utilities/params/class.u.param.item.form.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/classes/utilities/params/class.u.param.item.form.plugins.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/classes/utilities/params/class.u.param.item.form.urlmapping.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/classes/utilities/params/class.u.param.item.form.wpconfig.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/classes/utilities/params/class.u.param.item.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/classes/utilities/params/class.u.params.descriptors.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/classes/utilities/params/class.u.params.manager.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/classes/class.ctrl.ajax.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/classes/class.ctrl.params.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/classes/class.ctrl.s0.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/ctrl.base.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/ctrl.s0.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/ctrl.s1.extraction.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/ctrl.s1.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/ctrl.s2.base.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/ctrl.s3.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/ctrls/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/browserconfig.xml >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/pro01_android-chrome-192x192.png >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/pro01_android-chrome-256x256.png >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/pro01_apple-touch-icon.png >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/pro01_favicon-16x16.png >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/pro01_favicon-32x32.png >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/pro01_favicon.ico >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/pro01_mstile-150x150.png >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/pro01_safari-pinned-tab.svg >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/favicon/site.webmanifest >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/main.installer.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/views/classes/class.view.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/views/classes/class.view.s1.php >>> C:/laragon/www/flower
+[Apr 9 16:38:36] Success: dup-installer/views/classes/class.view.s2.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/classes/class.view.s3.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/classes/view.s1.terms.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/parts/validation.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.api.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.exception.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.help.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.init1.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.s1.base.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.s2.base.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.s2.basic.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.s2.cpnl.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.s2.dbtest.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.s3.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/views/view.s4.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/dup-archive__5a4862f-02000144.txt >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.exceptions.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.jsonSerializable.abstract.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.json.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/class.snaplib.u.wp.php >>> C:/laragon/www/flower
+[Apr 9 16:38:37] Success: dup-installer/lib/snaplib/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/snaplib/snaplib.all.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/snaplib/wordpress.core.files.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/fileops/class.fileops.constants.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/fileops/class.fileops.state.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/fileops/class.fileops.u.delete.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/fileops/class.fileops.u.move.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/fileops/fileops.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/fileops/index.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/config/class.wp.config.tranformer.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Success: dup-installer/lib/config/class.wp.config.tranformer.src.php >>> C:/laragon/www/flower
+[Apr 9 16:38:38] Successfully closed archive file
+[Apr 9 16:38:38] Successfully extracted with ZipArchive
+[Apr 9 16:38:38] No need to create dup-installer/.htaccess or dup-installer/.user.ini
+[Apr 9 16:38:38] ERROR:  SAPI: Unrecognized
+[Apr 9 16:38:38] Set permissions of dup-installer to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/api to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/assets to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/classes to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/ctrls to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/favicon to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/lib to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/views to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/dup-archive__5a4862f-02000144.txt to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/dup-database__5a4862f-02000144.sql to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/dup-scan__5a4862f-02000144.json to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/dup-scanned-dirs__5a4862f-02000144.txt to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/dup-scanned-files__5a4862f-02000144.txt to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/index.php to 0<br/>
+[Apr 9 16:38:38] Set permissions of dup-installer/main.installer.php to 0<br/>
+[Apr 9 16:38:38] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://localhost/flower/dup-installer/main.installer.php

@@ -1,0 +1,12 @@
+# This file was updated by Duplicator Pro on 2020-02-29 06:57:43.
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /snowdrop/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /snowdrop/index.php [L]
+</IfModule>
+# END WordPress

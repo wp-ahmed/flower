@@ -1,0 +1,24 @@
+2020-02-28T01:12:39+00:00 CRITICAL syntax error, unexpected '}' in C:\xampp\htdocs\snow\wp-content\plugins\woocommerce\templates\single-product\product-image.php on line 41
+
+2020-02-28T14:38:37+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in C:\xampp\htdocs\snow\wp-content\themes\Blue_Velvet\functions.php on line 51
+
+2020-02-28T14:39:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\snow\wp-content\themes\Blue_Velvet\functions.php:32
+Stack trace:
+#0 C:\xampp\htdocs\snow\wp-settings.php(497): include()
+#1 C:\xampp\htdocs\snow\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\snow\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\snow\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\snow\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\snow\wp-content\themes\Blue_Velvet\functions.php on line 32
+
+2020-02-28T18:39:18+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in C:\xampp\htdocs\snow\wp-content\themes\Blue_Velvet\functions.php:97
+Stack trace:
+#0 C:\xampp\htdocs\snow\wp-settings.php(497): include()
+#1 C:\xampp\htdocs\snow\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\snow\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\snow\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\snow\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\snow\wp-content\themes\Blue_Velvet\functions.php on line 97
+

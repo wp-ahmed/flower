@@ -1,0 +1,717 @@
+{
+    "created": "2020-03-02 00:01:44",
+    "version_dup": "3.8.7",
+    "version_wp": "5.3.2",
+    "version_db": "10.4.10",
+    "version_php": "7.3.12",
+    "version_os": "WINNT",
+    "dbInfo": {
+        "buildMode": "PHPCHUNKING",
+        "charSetList": [
+            "utf8mb4",
+            "utf8"
+        ],
+        "collationList": [
+            "utf8mb4_unicode_ci",
+            "utf8mb4_general_ci",
+            "utf8_general_ci"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "flower",
+        "tablesBaseCount": 50,
+        "tablesFinalCount": 50,
+        "tablesRowCount": 2401,
+        "tablesSizeOnDisk": 6455296,
+        "tablesList": {
+            "wp_commentmeta": {
+                "rows": "0",
+                "size": 49152
+            },
+            "wp_comments": {
+                "rows": "18",
+                "size": 114688
+            },
+            "wp_duplicator_pro_entities": {
+                "rows": "5",
+                "size": 32768
+            },
+            "wp_duplicator_pro_packages": {
+                "rows": "0",
+                "size": 65536
+            },
+            "wp_frmt_form_entry": {
+                "rows": "0",
+                "size": 65536
+            },
+            "wp_frmt_form_entry_meta": {
+                "rows": "0",
+                "size": 65536
+            },
+            "wp_frmt_form_views": {
+                "rows": "2",
+                "size": 81920
+            },
+            "wp_links": {
+                "rows": "0",
+                "size": 32768
+            },
+            "wp_options": {
+                "rows": "414",
+                "size": 1228800
+            },
+            "wp_postmeta": {
+                "rows": "1,448",
+                "size": 1572864
+            },
+            "wp_posts": {
+                "rows": "171",
+                "size": 1490944
+            },
+            "wp_term_relationships": {
+                "rows": "71",
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "rows": "25",
+                "size": 49152
+            },
+            "wp_termmeta": {
+                "rows": "13",
+                "size": 49152
+            },
+            "wp_terms": {
+                "rows": "25",
+                "size": 49152
+            },
+            "wp_tinvwl_analytics": {
+                "rows": "6",
+                "size": 32768
+            },
+            "wp_tinvwl_items": {
+                "rows": "1",
+                "size": 16384
+            },
+            "wp_tinvwl_lists": {
+                "rows": "1",
+                "size": 16384
+            },
+            "wp_usermeta": {
+                "rows": "58",
+                "size": 49152
+            },
+            "wp_users": {
+                "rows": "1",
+                "size": 65536
+            },
+            "wp_wc_admin_note_actions": {
+                "rows": "10",
+                "size": 32768
+            },
+            "wp_wc_admin_notes": {
+                "rows": "8",
+                "size": 16384
+            },
+            "wp_wc_category_lookup": {
+                "rows": "1",
+                "size": 16384
+            },
+            "wp_wc_customer_lookup": {
+                "rows": "1",
+                "size": 49152
+            },
+            "wp_wc_download_log": {
+                "rows": "0",
+                "size": 49152
+            },
+            "wp_wc_order_coupon_lookup": {
+                "rows": "1",
+                "size": 49152
+            },
+            "wp_wc_order_product_lookup": {
+                "rows": "3",
+                "size": 81920
+            },
+            "wp_wc_order_stats": {
+                "rows": "2",
+                "size": 65536
+            },
+            "wp_wc_order_tax_lookup": {
+                "rows": "0",
+                "size": 49152
+            },
+            "wp_wc_product_meta_lookup": {
+                "rows": "40",
+                "size": 114688
+            },
+            "wp_wc_tax_rate_classes": {
+                "rows": "2",
+                "size": 32768
+            },
+            "wp_wc_webhooks": {
+                "rows": "0",
+                "size": 32768
+            },
+            "wp_woocommerce_api_keys": {
+                "rows": "0",
+                "size": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "rows": "1",
+                "size": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "rows": "0",
+                "size": 81920
+            },
+            "wp_woocommerce_log": {
+                "rows": "0",
+                "size": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "rows": "48",
+                "size": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "rows": "6",
+                "size": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "rows": "0",
+                "size": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "rows": "0",
+                "size": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "rows": "2",
+                "size": 32768
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "rows": "1",
+                "size": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "rows": "1",
+                "size": 16384
+            },
+            "wp_woocommerce_shipping_zones": {
+                "rows": "1",
+                "size": 16384
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "rows": "0",
+                "size": 49152
+            },
+            "wp_woocommerce_tax_rates": {
+                "rows": "0",
+                "size": 81920
+            },
+            "wp_wpf_filters": {
+                "rows": "1",
+                "size": 16384
+            },
+            "wp_wpf_modules": {
+                "rows": "10",
+                "size": 32768
+            },
+            "wp_wpf_modules_type": {
+                "rows": "2",
+                "size": 16384
+            },
+            "wp_wpf_usage_stat": {
+                "rows": "1",
+                "size": 32768
+            }
+        },
+        "varLowerCaseTables": "1",
+        "version": "10.4.10",
+        "versionComment": "mariadb.org binary distribution",
+        "tableWiseRowCounts": {
+            "wp_commentmeta": "0",
+            "wp_comments": "18",
+            "wp_duplicator_pro_entities": "5",
+            "wp_duplicator_pro_packages": "1",
+            "wp_frmt_form_entry": "0",
+            "wp_frmt_form_entry_meta": "0",
+            "wp_frmt_form_views": "2",
+            "wp_links": "0",
+            "wp_options": "420",
+            "wp_postmeta": "1461",
+            "wp_posts": "178",
+            "wp_term_relationships": "71",
+            "wp_term_taxonomy": "25",
+            "wp_termmeta": "13",
+            "wp_terms": "25",
+            "wp_tinvwl_analytics": "6",
+            "wp_tinvwl_items": "1",
+            "wp_tinvwl_lists": "1",
+            "wp_usermeta": "58",
+            "wp_users": "1",
+            "wp_wc_admin_note_actions": "10",
+            "wp_wc_admin_notes": "8",
+            "wp_wc_category_lookup": "1",
+            "wp_wc_customer_lookup": "1",
+            "wp_wc_download_log": "0",
+            "wp_wc_order_coupon_lookup": "1",
+            "wp_wc_order_product_lookup": "3",
+            "wp_wc_order_stats": "2",
+            "wp_wc_order_tax_lookup": "0",
+            "wp_wc_product_meta_lookup": "40",
+            "wp_wc_tax_rate_classes": "2",
+            "wp_wc_webhooks": "0",
+            "wp_woocommerce_api_keys": "0",
+            "wp_woocommerce_attribute_taxonomies": "1",
+            "wp_woocommerce_downloadable_product_permissions": "0",
+            "wp_woocommerce_log": "0",
+            "wp_woocommerce_order_itemmeta": "48",
+            "wp_woocommerce_order_items": "6",
+            "wp_woocommerce_payment_tokenmeta": "0",
+            "wp_woocommerce_payment_tokens": "0",
+            "wp_woocommerce_sessions": "2",
+            "wp_woocommerce_shipping_zone_locations": "1",
+            "wp_woocommerce_shipping_zone_methods": "1",
+            "wp_woocommerce_shipping_zones": "1",
+            "wp_woocommerce_tax_rate_locations": "0",
+            "wp_woocommerce_tax_rates": "0",
+            "wp_wpf_filters": "1",
+            "wp_wpf_modules": "10",
+            "wp_wpf_modules_type": "2",
+            "wp_wpf_usage_stat": "1"
+        }
+    },
+    "opts_delete": "[\"duplicator_pro_ui_view_state\",\"duplicator_pro_package_active\",\"duplicator_pro_settings\"]",
+    "blogname": "Snowdrop",
+    "wproot": "C:\/xampp\/htdocs\/flower",
+    "wplogin_url": "http:\/\/localhost\/flower\/wp-login.php",
+    "relative_content_dir": "wp-content",
+    "relative_plugins_dir": "wp-content\/plugins",
+    "relative_theme_dirs": [
+        "wp-content\/themes"
+    ],
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$jyb6ExX3EXcf2pdje0Bu8ePbIaRYWbQQoF9\/ZO.b.RTkdld0aD9Se",
+    "skipscan": 0,
+    "dbhost": "",
+    "dbname": "",
+    "dbuser": "",
+    "dbpass": "",
+    "cache_wp": null,
+    "cache_path": null,
+    "cpnl_dbname": "",
+    "cpnl_host": "",
+    "cpnl_user": "",
+    "cpnl_pass": "",
+    "cpnl_enable": 0,
+    "cpnl_connect": false,
+    "cpnl_dbaction": "create",
+    "cpnl_dbhost": "",
+    "cpnl_dbuser": "",
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "subsites": [],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": -1,
+    "brand": {
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator Pro",
+        "enabled": false,
+        "style": []
+    },
+    "is_outer_root_wp_config_file": false,
+    "is_outer_root_wp_content_dir": null,
+    "wp_content_dir_base_name": "",
+    "wpInfo": {
+        "version": "5.3.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "C:\/xampp\/htdocs\/flower",
+        "targetPaths": [
+            "C:\/xampp\/htdocs\/flower"
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "C:\\xampp\\htdocs\\flower\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "8lm%;5^J5\/mEf?2Bf?*k+y4n;+63$nu3GocA%C[+vI-5RXv~N<-yWKQ[: ahQ*Z^",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "&B#uW40RS?PuhkM~Ft#Y`#Bo3Q\/)cQkY3XhrnzwJH#8G4 $tZwOS;vLj4lfo{xqe",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "=IY?#x0=xag?_0!om&GznUEufp;%^yzM0,<][}-kh+&tHg#jV=wsL#07D&PJ,w%>",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "=y:z;5h\/t5.zy\/ik#]uQ+%lfvtA8.HMkv&:]tR(jWZ;uSsd7H|TS-WJ_oPS_]QdZ",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "SdsYn\/xiHxOtDl{U[ASlM~TZvz$7y@TM+>;<%==hC8OY@ 6;hM*0,;&RPxB^=wR|",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "3TQ_cd#?}|{]S(6#^mR61.Fei?LO=u{tQAf2.\/!B(gE[3j0]bF$00(?YI&ZO8f@P",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "ikgDk](8X.N^]rsHVgBi9iM m1E8&xKc+3~z?f:!sjLT}oVnIe_?H{w}7VW:s F?",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "|Pp@Ht-5,(7jRb0v1fIHeQ0:HxOQ56PJY$Uvz&mf`WDBU-L.Jkz(O^0cB[In!)^w",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "C:\\xampp\\htdocs\\flower\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "http:\/\/localhost\/flower\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "C:\\xampp\\htdocs\\flower\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "http:\/\/localhost\/flower\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "512M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "C:\\xampp\\htdocs\\flower\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/flower\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/flower\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/flower\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/flower\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "C:\\xampp\\htdocs\\flower\/wp-content\/themes\/Blue_Velvet",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "C:\\xampp\\htdocs\\flower\/wp-content\/themes\/Blue_Velvet",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "C:\\xampp\\htdocs\\flower\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "http:\/\/localhost\/flower\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "http:\/\/localhost\/flower",
+                "homeUrl": "http:\/\/localhost\/flower",
+                "contentUrl": "http:\/\/localhost\/flower\/wp-content",
+                "uploadBaseUrl": "http:\/\/localhost\/flower\/wp-content\/uploads",
+                "pluginsUrl": "http:\/\/localhost\/flower\/wp-content\/plugins",
+                "mupluginsUrl": "http:\/\/localhost\/flower\/wp-content\/mu-plugins",
+                "themesUrl": "http:\/\/localhost\/flower\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "C:\/xampp\/htdocs\/flower",
+                    "abs": "C:\\xampp\\htdocs\\flower",
+                    "wpconfig": "C:\/xampp\/htdocs\/flower",
+                    "wpcontent": "C:\\xampp\\htdocs\\flower\/wp-content",
+                    "uploads": "C:\\xampp\\htdocs\\flower\/wp-content\/uploads",
+                    "plugins": "C:\\xampp\\htdocs\\flower\/wp-content\/plugins",
+                    "muplugins": "C:\\xampp\\htdocs\\flower\/wp-content\/mu-plugins",
+                    "themes": "C:\\xampp\\htdocs\\flower\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "C:\/xampp\/htdocs\/flower",
+                    "abs": "C:\/xampp\/htdocs\/flower",
+                    "wpconfig": "C:\/xampp\/htdocs\/flower",
+                    "wpcontent": "C:\/xampp\/htdocs\/flower\/wp-content",
+                    "uploads": "C:\/xampp\/htdocs\/flower\/wp-content\/uploads",
+                    "plugins": "C:\/xampp\/htdocs\/flower\/wp-content\/plugins",
+                    "muplugins": "C:\/xampp\/htdocs\/flower\/wp-content\/mu-plugins",
+                    "themes": "C:\/xampp\/htdocs\/flower\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "advanced-custom-fields-pro\/acf.php": {
+                "slug": "advanced-custom-fields-pro\/acf.php",
+                "name": "Advanced Custom Fields PRO",
+                "version": "5.8.7",
+                "pluginURI": "https:\/\/www.advancedcustomfields.com",
+                "author": "Elliot Condon",
+                "authorURI": "https:\/\/www.advancedcustomfields.com",
+                "description": "Customize WordPress with powerful, professional and intuitive fields.",
+                "title": "Advanced Custom Fields PRO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "akismet\/akismet.php": {
+                "slug": "akismet\/akismet.php",
+                "name": "Akismet Anti-Spam",
+                "version": "4.1.3",
+                "pluginURI": "https:\/\/akismet.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/automattic.com\/wordpress-plugins\/",
+                "description": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam<\/strong>. It keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.",
+                "title": "Akismet Anti-Spam",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "custom-fonts\/custom-fonts.php": {
+                "slug": "custom-fonts\/custom-fonts.php",
+                "name": "Custom Fonts",
+                "version": "1.2.1",
+                "pluginURI": "http:\/\/www.wpastra.com\/",
+                "author": "Brainstorm Force",
+                "authorURI": "http:\/\/www.brainstormforce.com",
+                "description": "Custom Fonts allows you to add more fonts that extend formatting options in your site.",
+                "title": "Custom Fonts",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator-pro\/duplicator-pro.php": {
+                "slug": "duplicator-pro\/duplicator-pro.php",
+                "name": "Duplicator Pro",
+                "version": "3.8.7",
+                "pluginURI": "http:\/\/snapcreek.com\/",
+                "author": "Snap Creek",
+                "authorURI": "http:\/\/snapcreek.com",
+                "description": "Create, schedule and transfer a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "2.9.3",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "forminator\/forminator.php": {
+                "slug": "forminator\/forminator.php",
+                "name": "Forminator",
+                "version": "1.11.3",
+                "pluginURI": "https:\/\/premium.wpmudev.org\/project\/forminator\/",
+                "author": "WPMU DEV",
+                "authorURI": "http:\/\/premium.wpmudev.org",
+                "description": "Capture user information (as detailed as you like), engage users with interactive polls that show real-time results and graphs, \u201cno wrong answer\u201d Facebook-style quizzes and knowledge tests.",
+                "title": "Forminator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hello.php": {
+                "slug": "hello.php",
+                "name": "Hello Dolly",
+                "version": "1.7.2",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/hello-dolly\/",
+                "author": "Matt Mullenweg",
+                "authorURI": "http:\/\/ma.tt\/",
+                "description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly<\/cite> in the upper right of your admin screen on every page.",
+                "title": "Hello Dolly",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "add-search-to-menu\/add-search-to-menu.php": {
+                "slug": "add-search-to-menu\/add-search-to-menu.php",
+                "name": "Ivory Search",
+                "version": "4.4.6",
+                "pluginURI": "https:\/\/ivorysearch.com",
+                "author": "Ivory Search",
+                "authorURI": "https:\/\/ivorysearch.com\/",
+                "description": "The WordPress Search plugin that includes Search Form Customizer, WooCommerce Search, Image Search, Search Shortcode, AJAX Search & Live Search support!",
+                "title": "Ivory Search",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "ti-woocommerce-wishlist\/ti-woocommerce-wishlist.php": {
+                "slug": "ti-woocommerce-wishlist\/ti-woocommerce-wishlist.php",
+                "name": "TI WooCommerce Wishlist Plugin",
+                "version": "1.16.2",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/ti-woocommerce-wishlist\/",
+                "author": "TemplateInvaders",
+                "authorURI": "https:\/\/templateinvaders.com\/",
+                "description": "Wishlist functionality for your WooCommerce store.",
+                "title": "TI WooCommerce Wishlist Plugin",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "3.9.2",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An eCommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-admin\/woocommerce-admin.php": {
+                "slug": "woocommerce-admin\/woocommerce-admin.php",
+                "name": "WooCommerce Admin",
+                "version": "0.26.1",
+                "pluginURI": "https:\/\/github.com\/woocommerce\/woocommerce-admin",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com\/",
+                "description": "A new JavaScript-driven interface for managing your store. The plugin includes new and improved reports, and a dashboard to monitor all the important key metrics of your site.",
+                "title": "WooCommerce Admin",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce-product-addons\/woocommerce-product-addons.php": {
+                "slug": "woocommerce-product-addons\/woocommerce-product-addons.php",
+                "name": "WooCommerce Product Add-ons",
+                "version": "3.0.24",
+                "pluginURI": "https:\/\/woocommerce.com\/products\/product-add-ons\/",
+                "author": "WooCommerce",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "Add extra options to products which your customers can select from, when adding to the cart, with an optional fee for each extra option. Add-ons can be checkboxes, a select box, or custom text input.",
+                "title": "WooCommerce Product Add-ons",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woo-product-filter\/wpf.php": {
+                "slug": "woo-product-filter\/wpf.php",
+                "name": "Woo Product Filter",
+                "version": "1.2.6",
+                "pluginURI": "https:\/\/woobewoo.com\/product\/woocommerce-filter\/",
+                "author": "woobewoo",
+                "authorURI": "https:\/\/woobewoo.com\/",
+                "description": "Filter products in your store in most efficient way",
+                "title": "Woo Product Filter",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        }
+    },
+    "installer_base_name": "installer.php",
+    "package_name": "20200302_snowdrop_5a4862fc6b58f9388450_20200302000144_archive.zip",
+    "package_hash": "5a4862f-02000144",
+    "package_notes": "",
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "overwriteInstallerParams": []
+}

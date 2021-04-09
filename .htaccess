@@ -1,0 +1,12 @@
+# This file was updated by Duplicator Pro on 2021-04-09 16:41:48.
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /flower/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /flower/index.php [L]
+</IfModule>
+# END WordPress
